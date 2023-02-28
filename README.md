@@ -23,7 +23,14 @@ TODO(Miriam)
 
 
 ## What we learned
-TODO(Tolu)
+- The impact of cultural sensitivity when designing an application for a specific community.
+- How to use data and user feedback to guide decision-making in app development
+- How to design user interfaces and experiences that are intuitive and visually appealing to the intended age group of users.
+- The importance of user privacy and parental guidance when developing an application centered around children.
+- Dealing with in-app language barriers that limit accessibility for target users.
+- What educational resources and activities helps children develop healthy coping mechanisms
+- The value of collaborating with mental health professionals, educators, and parents
+- How to use in-app user data to improve upon existing app features and create new ones as needed
 
 ## Next Steps
 
