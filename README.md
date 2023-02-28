@@ -7,11 +7,11 @@ This project was created thanks to the awareness raised by the people of The Opp
 
 ## Features
 
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
+- User-Generated Content - Cuiado is designed to adress mental health outcomes across various age groups and language proficiencies. The app features a content switch that adjusts app products to be tailored toward specific age ranges, languages, and reading style. For example, a 13 year-old Spanish user is able to adjust app preferences to recieve content at an age adjusted level and in Spanish dialogue.
+- Scanario Activity - Role playing game designed for users engagine in various life and mental health situations. Operating on a point-based model, Cuiado awards appropriate responses on the game as a means of reinforncing positive mental health attitudes. Users are encourage to continue using the service and feedback and analyse is made more condusive of users mental state and rational.
+- Resource Tab - All-in-one link page citing mental health support service, data, information, and external links for users.
+- One-on-One Mentoring
+- Parent/Guardian Checkin Feature
 - [x] Feature 6
 - [x] Feature 7
 - [x] Feature 8
@@ -23,14 +23,7 @@ TODO(Miriam)
 
 
 ## What we learned
-- The impact of cultural sensitivity when designing an application for a specific community.
-- How to use data and user feedback to guide decision-making in app development
-- How to design user interfaces and experiences that are intuitive and visually appealing to the intended age group of users.
-- The importance of user privacy and parental guidance when developing an application centered around children.
-- Dealing with in-app language barriers that limit accessibility for target users.
-- What educational resources and activities helps children develop healthy coping mechanisms
-- The value of collaborating with mental health professionals, educators, and parents
-- How to use in-app user data to improve upon existing app features and create new ones as needed
+TODO(Tolu)
 
 ## Next Steps
 
